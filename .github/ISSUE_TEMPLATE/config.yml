@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: PyQtUI Widgets 🪰
+    url: https://github.com/djoezeke/pyqtui
+    about: Modern Widgets for PyQT and Pyside.
+
+  - name: PyQtUI Issues 🐞
+    url: https://github.com/djoezeke/pyqtui/issues
+    about: Please report issues and vulnerabilities here.
+
+  - name: PyQtUI Releases 💖
+    url: https://github.com/djoezeke/pyqtui/releases
+    about: Please latest PyQtUI release here.
