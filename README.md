@@ -34,6 +34,8 @@ pyqtui is a collection of huge number of widgets.
 > [!NOTE]
 > Widgets are compatible with both PyQt and PySide (Qt for Python).
 
+### Links
+
 **Documentation**: <a href="https://github.io/djoezeke/pyqtui" target="_blank">https://github.io/djoezeke/pyqtui</a>
 
 **Source Code**: <a href="https://github.com/djoezeke/pyqtui" target="_blank">https://github.com/djoezeke/pyqtui</a>
